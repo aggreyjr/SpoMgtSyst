@@ -1,0 +1,2 @@
+# SpoMgtSyst
+School Project
